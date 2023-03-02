@@ -24,3 +24,12 @@ for(let key in pret){
 	sum += pret[key];
 }
 console.log(sum);
+
+const PretulMinim = (produs) => {
+    return.produs.reduce((minim, produss) => {
+        if (produss.pret < minim.pret) {
+            return produss;
+        } else {
+            return minim;
+        }}, produs [0];
+    };
