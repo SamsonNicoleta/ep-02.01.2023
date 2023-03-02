@@ -1,18 +1,18 @@
 const produs = [
     {
         "denumire": "lapte",
-        "pret": 15
-        "cantitate": 2
+        "pret": 15,
+        "cantitate": 2,
     },
     {
         "denumire": "paine",
-        "pret": 10
-        "cantitate": 3
+        "pret": 10,
+        "cantitate": 3,
     },
     {
         "denumire": "cereale",
-        "pret": 30
-        "cantitate": 4
+        "pret": 30,
+        "cantitate": 4,
     }
 ];
 
